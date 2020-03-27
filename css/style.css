@@ -1,5 +1,17 @@
 <style>
-.first{border:1px solid green;}
-#first{border:1px solid red;}
-*{margin:0; padding: 0;}
+
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+p{
+  text-align:left;
+}
+.first{
+  border:1px solid green;
+}
+#first{
+  border:1px solid red;
+}
 </style>
