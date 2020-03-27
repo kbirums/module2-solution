@@ -1,3 +1,4 @@
 <style>
-.first{border:1px solid green}
+.first{border:1px solid green;}
+#first{border:1px solid red;}
 *{margin:0; padding: 0;}
